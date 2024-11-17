@@ -1,5 +1,5 @@
-# Robloxscriptgiveaways
-
+# Robloxscriptgiveaways CS
+# Admin Script (CS)
 ```
 -- Initialize the GUI
 local player = game.Players.LocalPlayer
