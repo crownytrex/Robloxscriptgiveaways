@@ -1,3 +1,5 @@
+# BATMAN SCRIPT
+# PRESS E FOR BATARANG
 ```
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
